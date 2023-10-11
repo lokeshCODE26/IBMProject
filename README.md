@@ -1,2 +1,2 @@
-IBMphase1
-Predictive Analytics Model Deployment using Watson studio
+IBM Project
+Machine Learning Model Deployment using Watson studio
